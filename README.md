@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <a href="#" onClick="return false;">
-<p><img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p></a>
+<p><img align="right" alt="Coding" width="350" style="radius:5em" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p></a>
 
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently on track for learning more about **AWS, Angular, ML and Data Science**
