@@ -6,7 +6,7 @@
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me
-<a href="https://github.com/tuseeqraza1">
+<a href="#" onClick="return false;">
 <p><img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p></a>
 
 - 🔭 I’m currently working on **my portfolio**
@@ -55,7 +55,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/tuseeqraza1">
+<a href="#" onClick="return false;">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
