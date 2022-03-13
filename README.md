@@ -54,13 +54,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
+<div align="center">
 <a href="https://github.com/tuseeqraza1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
+</div>
 </p>
 
-<div align="center">
+
 
 <br/>
   
