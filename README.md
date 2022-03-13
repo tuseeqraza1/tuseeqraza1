@@ -49,19 +49,26 @@
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
 
 
+<br/>
+
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/tuseeqraza1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuseeqraza1&show_icons=true&locale=en"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuseeqraza1&show_icons=true&locale=en&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
 
+<div align="center">
+
+<br/>
+  
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/tuseeqraza1"><img src="https://img.shields.io/badge/-Tuseeq%20Ahmed%20Raza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="tuseeqraza1@gmail.com"><img src="https://img.shields.io/badge/-tuseeqraza1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:tuseeqraza1@gmail.com"><img src="https://img.shields.io/badge/-tuseeqraza1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://facebook.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
