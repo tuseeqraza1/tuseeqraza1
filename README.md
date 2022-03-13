@@ -3,9 +3,11 @@
 
 <p align="justify">An adept learner, hard-working, motivated, and energetic individual 💡, I like to explore new technologies and develop software solutions and quick hacks. I have done my Bachelor’s 🎓 at COMSATS University Islamabad 🏛, majoring in Computer Science (CS). I have a great knowledge grasp of Data Structures & Algorithms ✨, and I’m particularly interested in the domain of 📊 Data Science, ☁️ Cloud computing, 👨🏻‍💻 Web Development, 📜 open source, 🚀 DevOps, 🆕 Innovation, and 🤖 Automation.</p>
 
+<br>
 
 ### 👨🏻‍💻 &nbsp;About Me
-<p><img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<a href="https://github.com/tuseeqraza1">
+<p><img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p></a>
 
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently on track for learning more about **AWS, Angular, ML and Data Science**
@@ -15,6 +17,7 @@
 - 📫 Reach me at **[tuseeqraza1](https://www.linkedin.com/in/tuseeqraza1)**!
 - ⚡ Fun fact: **I like coding, listening music, watching movies, gaming, cycling, sketching, UI designing, 2d animation**
 
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -48,6 +51,7 @@
 ![After Effets](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
 
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -56,7 +60,8 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
-  
+
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
