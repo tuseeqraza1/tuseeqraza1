@@ -49,22 +49,13 @@
 ![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
 
 
-<br/>
-
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
-<div align="center">
 <a href="https://github.com/tuseeqraza1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
-</div>
 </p>
-
-
-
-<br/>
   
 
 ### 🤝🏻 &nbsp;Connect with Me
