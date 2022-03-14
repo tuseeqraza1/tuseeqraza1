@@ -41,6 +41,7 @@
 ![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)&nbsp;
@@ -57,7 +58,7 @@
 <p align="center">
 <a href="#" onClick="return false;">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&theme=vue-light" />
 </a>
 </p>
 
