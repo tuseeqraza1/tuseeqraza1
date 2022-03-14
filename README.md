@@ -5,6 +5,7 @@
 
 <br>
 
+
 ### 👨🏻‍💻 &nbsp;About Me
 <a href="#" onClick="return false;">
 <p><img align="right" alt="Coding" width="350" style="radius:5em" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p></a>
@@ -58,7 +59,7 @@
 <p align="center">
 <a href="#" onClick="return false;">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&theme=vue-light" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&count_private_repo=true&layout=compact&theme=vue-light" />
 </a>
 </p>
 
