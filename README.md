@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Tuseeq</h1>
 
-<p align="justify">An adept learner, hard-working, motivated, and energetic individual 💡, I like to explore new technologies and develop software solutions and quick hacks. I have done my Bachelor’s 🎓 at COMSATS University Islamabad 🏛, majoring in Computer Science (CS). I have a great knowledge grasp of Data Structures & Algorithms ✨, and I’m particularly interested in the domain of 📊 Data Science, ☁️ Cloud computing, 👨🏻‍💻 Web Development, 📜 open source, 🚀 DevOps, 🆕 Innovation, and 🤖 Automation.</p>
+<p align="justify">An adept learner, hard-working, motivated, and energetic individual, I like to explore new technologies and develop software solutions and quick hacks. I have done my Bachelor’s 🎓 at COMSATS University Islamabad 🏛, majoring in Computer Science (CS). I have a great knowledge grasp of Data Structures & Algorithms ✨, and I’m particularly interested in the domain of 📊 Data Science, ☁️ Cloud computing, 👨🏻‍💻 Web Development, 📜 open source, 🚀 DevOps, 💡 Innovation, and 🤖 Automation.</p>
 
 <br>
 
