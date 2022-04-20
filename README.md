@@ -28,11 +28,11 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=6D41A3)&nbsp;
 ![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=mui)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=javascript)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=javascript&logoColor=A998DE)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angularjs&logoColor=red)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
@@ -42,7 +42,7 @@
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style==flat&logo=npm&logoColor=white)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style==flat&logo=yarn&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=EF9D11)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -54,7 +54,7 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=flat&logo=Eclipse)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-05122A?style=flat&logo=microsoft-office&logoColor=white)&nbsp;\
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-05122A?style=flat&logo=microsoft-office&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-05122A?style=flat&logo=Adobe%20XD)&nbsp;
