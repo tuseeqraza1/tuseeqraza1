@@ -23,8 +23,10 @@
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=F2BF1C)&nbsp;
+![NumPy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy&logoColor=4971C4)&nbsp;
+![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=29A171)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -40,7 +42,7 @@
 ![React Router](https://img.shields.io/badge/-React_Router-05122A?style=flat&logo=react-router)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&&logo=tailwind-css)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style==flat&logo=npm&logoColor=white)&nbsp;
-![Yarn](https://img.shields.io/badge/-Yarn-05122A?style==flat&logo=yarn&logoColor=white)&nbsp;
+![Yarn](https://img.shields.io/badge/-Yarn-05122A?style==flat&logo=yarn&logoColor=2A87B1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=EF9D11)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;\
