@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently on track for learning more about **AWS, Angular, ML and Data Science**
-- 🤝🏻 I’m looking to collaborate on **projects related to Python and Web Development**
+- :computer: I’m looking to collaborate on **projects related to Python and Web Development**
 - 💬 Ask me about **Git, JS, MERN, Firebase.**
 - 🥅 2022 Goals: Contribute to Open Source projects, and learn Blockchain Development.
 - 📫 Reach me at **[tuseeqraza1](https://www.linkedin.com/in/tuseeqraza1)**!
