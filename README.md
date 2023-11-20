@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Tuseeq</h1>
 
-<p align="justify">An adept learner, hard-working, motivated, and energetic individual, I like to explore new technologies and develop software solutions and quick hacks. I have done my Bachelor’s 🎓 at COMSATS University Islamabad 🏛, majoring in Computer Science (CS). I have a great knowledge grasp of Data Structures & Algorithms ✨, and I’m particularly interested in the domain of 📊 Data Science, ☁️ Cloud computing, 👨🏻‍💻 Web Development, 📜 open source, 🚀 DevOps, 💡 Innovation, and 🤖 Automation.</p>
+<p align="justify">An adept learner, hard-working, motivated, and energetic individual, I like to explore new technologies and develop software solutions and quick hacks. Currently, I'm doing a Master’s 🎓 at Universität Bonn, Germany 🏛, majoring in Computer Science (CS). I have a great knowledge grasp of Data Structures & Algorithms ✨, and I’m particularly interested in the domain of 📊 Data Science, ☁️ Cloud computing, 👨🏻‍💻 Web Development, 📜 open source, 🚀 DevOps, 💡 Innovation, and 🤖 Automation.</p>
 
 <br>
 
@@ -11,12 +11,12 @@
 <p><img align="right" alt="Coding" width="350" style="radius:5em" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p></a>
 
 - 🔭 I’m currently working on **my portfolio**
-- 🌱 I’m currently on track for learning more about **AWS, Angular, ML and Data Science**
+- 🌱 I’m currently on track to learning more about **AWS, ML and Data Science**
 - :computer: I’m looking to collaborate on **projects related to Python and Web Development**
-- 💬 Ask me about **Git, JS, MERN, Firebase.**
+- 💬 Ask me about **Git, JS, Web Development, and Data Science.**
 - 🥅 2022 Goals: Contribute to Open Source projects, and learn Blockchain Development.
 - 📫 Reach me at **[tuseeqraza1](https://www.linkedin.com/in/tuseeqraza1)**!
-- ⚡ Fun fact: **I like coding, listening music, watching movies, gaming, cycling, sketching, UI designing, 2d animation**
+- ⚡ Fun fact: **I like coding, listening to music, watching movies, gaming, cycling, sketching, UI designing, 2d animation**
 
 <br>
 
