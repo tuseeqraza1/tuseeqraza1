@@ -12,22 +12,27 @@
 
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently on track to learning more about **AWS, ML and Data Science**
-- :computer: I’m looking to collaborate on **projects related to Python and Web Development**
+- :computer: I’m looking to collaborate on **projects related to Python, Data Analytics and Web Development**
 - 💬 Ask me about **Git, JS, Web Development, and Data Science.**
-- 🥅 2022 Goals: Contribute to Open Source projects, and learn Blockchain Development.
+- 🥅 2024 Goals: Contribute to Open Source projects, and learn Blockchain Development.
 - 📫 Reach me at **[tuseeqraza1](https://www.linkedin.com/in/tuseeqraza1)**!
 - ⚡ Fun fact: **I like coding, listening to music, watching movies, gaming, cycling, sketching, UI designing, 2d animation**
 
 <br>
 
 ### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=F2BF1C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White)&nbsp;
 ![NumPy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy&logoColor=4971C4)&nbsp;
-![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=29A171)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&logoColor=29A171)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=realm&logoColor=7DB0BC)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly&logoColor=3F4F75)&nbsp;
+![SciPy](https://img.shields.io/badge/SciPy-05122A??style=flat&logo=scipy)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=6D41A3)&nbsp;
@@ -48,20 +53,24 @@
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter&logoColor=E77124)&nbsp;
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=flat&logo=Eclipse)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=E77124)&nbsp;
+![NetBeans IDE](https://img.shields.io/badge/-NetBeansIDE-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-05122A?style=flat&logo=microsoft-office&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft-office&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-05122A?style=flat&logo=Adobe%20XD)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe%20XD)&nbsp;
 ![After Effets](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=Adobe%20Premiere%20Pro)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)
 
 <br>
 
