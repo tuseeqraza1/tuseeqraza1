@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently on track to learning more about **AWS, ML and Data Science**
 - :computer: I’m looking to collaborate on **projects related to Python, Data Analytics and Web Development**
-- 💬 Ask me about **Git, JS, Web Development, and Data Science.**
+- 💬 Ask me about **Git, JS, Data Science, Data Analytics, and Web Development.**
 - 🥅 2024 Goals: Contribute to Open Source projects, and learn Blockchain Development.
 - 📫 Reach me at **[tuseeqraza1](https://www.linkedin.com/in/tuseeqraza1)**!
 - ⚡ Fun fact: **I like coding, listening to music, watching movies, gaming, cycling, sketching, UI designing, 2d animation**
