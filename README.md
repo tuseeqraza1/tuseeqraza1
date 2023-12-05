@@ -86,8 +86,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/tuseeqraza1"><img src="https://img.shields.io/badge/-Tuseeq%20Ahmed%20Raza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tuseeqraza1@gmail.com"><img src="https://img.shields.io/badge/-tuseeqraza1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tuseeqraza1@gmail.com"><img src="https://img.shields.io/badge/-@tuseeqraza1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://facebook.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
