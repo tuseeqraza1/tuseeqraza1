@@ -28,7 +28,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=29A171)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&logoColor=29A171)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=realm&logoColor=7DB0BC)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly&logoColor=3F4F75)&nbsp;
@@ -62,7 +62,7 @@
 ![NetBeans IDE](https://img.shields.io/badge/-NetBeansIDE-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft-office&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft&logoColor=D83B01)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe%20XD)&nbsp;
