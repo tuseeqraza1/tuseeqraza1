@@ -49,7 +49,9 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style==flat&logo=yarn&logoColor=2A87B1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=EF9D11)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;\
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-05122A?style=flat&logo=aws)&nbsp;
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-05122A?style=flat-square&logo=msazure)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
@@ -59,7 +61,7 @@
 ![NetBeans IDE](https://img.shields.io/badge/-NetBeansIDE-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft&logoColor=D83B01)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft&logoColor=0089D6)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
