@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Tuseeq</h1>
 
-<p align="justify">An adept learner, hard-working, motivated, and energetic individual, I like to explore new technologies and develop software solutions and quick hacks. Currently, I'm doing a Master’s 🎓 at Universität Bonn, Germany 🏛, majoring in Computer Science (CS). I have a great knowledge grasp of Data Structures & Algorithms ✨, and I’m particularly interested in the domain of 📊 Data Science, ☁️ Cloud computing, 👨🏻‍💻 Web Development, 📜 open source, 🚀 DevOps, 💡 Innovation, and 🤖 Automation.</p>
+<p align="justify">An adept learner, hard-working, motivated, and energetic individual, I like to explore new technologies and develop software solutions and quick hacks. Currently, I'm doing a Master’s 🎓 at Universität Bonn, Germany 🏛, majoring in Computer Science (CS). I have a great knowledge grasp of Data Structures & Algorithms ✨, and I’m particularly interested in the domain of ☁️ Cloud, 📊 Data, 👨🏻‍💻 Development, 💡 Innovation, 🤖 Automation and 📜 open source.</p>
 
 <br>
 
@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently on track to learning more about **AWS, ML and Data Science**
-- :computer: I’m looking to collaborate on **projects related to Python, Data Analytics and Web Development**
+- :computer: I’m looking to collaborate on **projects related to Python, Cloud and Data Engineering**
 - 💬 Ask me about **Git, JS, Data Science, Data Analytics, and Web Development.**
-- 🥅 2024 Goals: Contribute to Open Source projects, and learn Blockchain Development.
+- 🥅 2025 Goals: Contribute to Open Source projects, and learn Blockchain Development.
 - 📫 Reach me at **[tuseeqraza1](https://www.linkedin.com/in/tuseeqraza1)**!
 - ⚡ Fun fact: **I like coding, listening to music, watching movies, gaming, cycling, sketching, UI designing, 2d animation**
 
@@ -22,8 +22,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=F2BF1C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White)&nbsp;
 ![NumPy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy&logoColor=4971C4)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
@@ -33,6 +31,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly&logoColor=3F4F75)&nbsp;
 ![SciPy](https://img.shields.io/badge/SciPy-05122A??style=flat&logo=scipy)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=6D41A3)&nbsp;
@@ -40,7 +40,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=javascript&logoColor=A998DE)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angularjs&logoColor=red)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
@@ -55,22 +54,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=E77124)&nbsp;
 ![NetBeans IDE](https://img.shields.io/badge/-NetBeansIDE-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=Eclipse)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft&logoColor=D83B01)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=Adobe%20XD)&nbsp;
-![After Effets](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=Adobe%20Premiere%20Pro)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 <br>
 
