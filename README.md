@@ -16,7 +16,7 @@
 - 💬 Ask me about **Git, JS, Data Science, Data Analytics, and Web Development.**
 - 🥅 2025 Goals: Contribute to Open Source projects, and learn Blockchain Development.
 - 📫 Reach me at **[tuseeqraza1](https://www.linkedin.com/in/tuseeqraza1)**!
-- ⚡ Fun fact: **I like coding, listening to music, watching movies, gaming, cycling, sketching, UI designing, 2d animation**
+- ⚡ Fun fact: **I like Coding, UI Design, 2D Animation, Sketching, Gaming, Cycling, Hiking, Traveling, Photography, Cooking, Listening Music, Watching Movies**
 
 <br>
 
