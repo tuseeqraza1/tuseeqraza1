@@ -32,9 +32,9 @@
       <img src="https://img.shields.io/badge/SciPy-05122A??style=flat&logo=scipy">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White">
       <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518">
       <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White">
       <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
       <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=javascript&logoColor=A998DE">
     </td>
