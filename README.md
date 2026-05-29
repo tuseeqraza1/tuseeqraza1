@@ -125,10 +125,11 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tuseeqraza1"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 <a href="mailto:tuseeqraza1@gmail.com"><img src="https://img.shields.io/badge/-@tuseeqraza1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://instagram.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
 <a href="https://www.behance.net/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://instagram.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
