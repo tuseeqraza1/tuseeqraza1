@@ -63,13 +63,13 @@
     <td align="center">
       <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
       <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
+      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=6D41A3">
+      <img src="https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=mui">
       <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
       <img src="https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react">
       <img src="https://img.shields.io/badge/-React_Router-05122A?style=flat&logo=react-router">
       <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux">
       <img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&&logo=tailwind-css">
-      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=6D41A3">
-      <img src="https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=mui">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
@@ -77,7 +77,7 @@
       <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab">
       <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED">
       <img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman">
-      <img src="https://img.shields.io/badge/-NPM-05122A?style==flat&logo=npm&logoColor=white">
+      <img src="https://img.shields.io/badge/-NPM-05122A?style==flat&logo=npm&logoColor=CB3837">
       <img src="https://img.shields.io/badge/-Yarn-05122A?style==flat&logo=yarn&logoColor=2A87B1">
     </td>
   </tr>
@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-05122A?style=flat&logo=power-bi&logoColor=FFAC1C">
+      <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-05122A?style=flat&logo=power-bi&logoColor=E37400">
       <img src="https://img.shields.io/badge/-Data_Studio-05122A?style=flat&logo=looker&logoColor=4285F4">
       <img src="https://img.shields.io/badge/-Google_Analytics-05122A?style=flat&logo=googleanalytics&logoColor=E37400">
       <img src="https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft&logoColor=0089D6">
@@ -98,7 +98,7 @@
       <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
       <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=EF9D11">
-      <img src="https://custom-icon-badges.demolab.com/badge/AWS-05122A?style=flat&logo=aws">
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-05122A?style=flat&logo=aws&logoColor=FF9900">
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-05122A?style=flat-square&logo=msazure">
     </td>
     <td align="center">
