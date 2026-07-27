@@ -18,27 +18,27 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<table align="center">
+<table align="justify">
   <tr>
     <th align="center">🧠 Core Data & ML</th>
     <th align="center">⚙️ Backend & Languages</th>
     <th align="center">💻 IDEs & OS</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="justify">
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=F2BF1C">
       <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow">
       <img src="https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C">
       <img src="https://img.shields.io/badge/SciPy-05122A??style=flat&logo=scipy">
     </td>
-    <td align="center">
+    <td align="justify">
       <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518">
       <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
       <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White">
       <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
       <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=javascript&logoColor=A998DE">
     </td>
-    <td align="center">
+    <td align="justify">
       <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=E77124">
       <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-05122A.svg?logo=visualstudiocode&logoColor=0078d7">
       <img src="https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip&logoColor=A61683">
@@ -53,14 +53,14 @@
     <th align="center">🔧 Version Control & DevOps</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="justify">
       <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white">
       <img src="https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy&logoColor=4971C4">
       <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-05122A?logo=matplotlib&logoColor=4B8BBE">
       <img src="https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=realm&logoColor=7DB0BC">
       <img src="https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly&logoColor=3F4F75">
     </td>
-    <td align="center">
+    <td align="justify">
       <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
       <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
       <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=6D41A3">
@@ -71,7 +71,7 @@
       <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux">
       <img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&&logo=tailwind-css">
     </td>
-    <td align="center">
+    <td align="justify">
       <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
       <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
       <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab">
@@ -87,13 +87,13 @@
     <th align="center">🎨 Design & Productivity</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="justify">
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-05122A?style=flat&logo=power-bi&logoColor=E37400">
       <img src="https://img.shields.io/badge/-Data_Studio-05122A?style=flat&logo=looker&logoColor=4285F4">
       <img src="https://img.shields.io/badge/-Google_Analytics-05122A?style=flat&logo=googleanalytics&logoColor=E37400">
       <img src="https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft&logoColor=0089D6">
     </td>
-    <td align="center">
+    <td align="justify">
       <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
       <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
@@ -101,7 +101,7 @@
       <img src="https://custom-icon-badges.demolab.com/badge/AWS-05122A?style=flat&logo=aws&logoColor=FF9900">
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-05122A?style=flat-square&logo=msazure">
     </td>
-    <td align="center">
+    <td align="justify">
       <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">
       <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator">
       <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop">
@@ -114,7 +114,7 @@
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="justify">
 <a href="#" onClick="return false;">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&theme=vue-light" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&hide=issues&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
@@ -124,8 +124,8 @@
 <br>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/tuseeqraza1"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+<p align="justify">
+<a href="https://www.linkedin.com/in/tuseeqraza1"><img src="https://custom-icon-badges.demolab.com/badge/-@tuseeqraza1-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 <a href="mailto:tuseeqraza1@gmail.com"><img src="https://img.shields.io/badge/-@tuseeqraza1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
 <a href="https://www.behance.net/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
