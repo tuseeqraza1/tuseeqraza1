@@ -18,27 +18,27 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<table align="justify">
+<table align="center">
   <tr>
     <th align="center">🧠 Core Data & ML</th>
     <th align="center">⚙️ Backend & Languages</th>
     <th align="center">💻 IDEs & OS</th>
   </tr>
   <tr>
-    <td align="justify">
+    <td align="center">
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=F2BF1C">
       <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow">
       <img src="https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C">
       <img src="https://img.shields.io/badge/SciPy-05122A??style=flat&logo=scipy">
     </td>
-    <td align="justify">
+    <td align="center">
       <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518">
       <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
       <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=White">
       <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
       <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=javascript&logoColor=A998DE">
     </td>
-    <td align="justify">
+    <td align="center">
       <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=E77124">
       <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-05122A.svg?logo=visualstudiocode&logoColor=0078d7">
       <img src="https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip&logoColor=A61683">
@@ -53,14 +53,14 @@
     <th align="center">🔧 Version Control & DevOps</th>
   </tr>
   <tr>
-    <td align="justify">
+    <td align="center">
       <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white">
       <img src="https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy&logoColor=4971C4">
       <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-05122A?logo=matplotlib&logoColor=4B8BBE">
       <img src="https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=realm&logoColor=7DB0BC">
       <img src="https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly&logoColor=3F4F75">
     </td>
-    <td align="justify">
+    <td align="center">
       <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
       <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
       <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=6D41A3">
@@ -71,7 +71,7 @@
       <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux">
       <img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&&logo=tailwind-css">
     </td>
-    <td align="justify">
+    <td align="center">
       <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
       <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
       <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab">
@@ -87,13 +87,13 @@
     <th align="center">🎨 Design & Productivity</th>
   </tr>
   <tr>
-    <td align="justify">
+    <td align="center">
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-05122A?style=flat&logo=power-bi&logoColor=E37400">
       <img src="https://img.shields.io/badge/-Data_Studio-05122A?style=flat&logo=looker&logoColor=4285F4">
       <img src="https://img.shields.io/badge/-Google_Analytics-05122A?style=flat&logo=googleanalytics&logoColor=E37400">
       <img src="https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft&logoColor=0089D6">
     </td>
-    <td align="justify">
+    <td align="center">
       <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
       <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
@@ -114,9 +114,9 @@
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="justify">
+<p align="center">
 <a href="#" onClick="return false;">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&theme=vue-light" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuseeqraza1&layout=compact&theme=vue-light" />&ensp;
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuseeqraza1&hide=issues&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
 </a>
 </p>
@@ -124,12 +124,12 @@
 <br>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align="justify">
-<a href="https://www.linkedin.com/in/tuseeqraza1"><img src="https://custom-icon-badges.demolab.com/badge/-@tuseeqraza1-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-<a href="mailto:tuseeqraza1@gmail.com"><img src="https://img.shields.io/badge/-@tuseeqraza1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.behance.net/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-<a href="https://instagram.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/tuseeqraza1"><img src="https://custom-icon-badges.demolab.com/badge/-@tuseeqraza1-0A66C2?logo=linkedin-white&logoColor=fff"/></a>&ensp;
+<a href="mailto:tuseeqraza1@gmail.com"><img src="https://img.shields.io/badge/-@tuseeqraza1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&ensp;
+<a href="https://www.hackerrank.com/profile/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>&ensp;
+<a href="https://www.behance.net/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1769FF?style=flat&logo=Behance&logoColor=white"/></a>&ensp;
+<a href="https://instagram.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&ensp;
 <a href="https://facebook.com/tuseeqraza1"><img src="https://img.shields.io/badge/-@tuseeqraza1-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
